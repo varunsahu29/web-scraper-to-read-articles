@@ -1,0 +1,125 @@
+04/07/2023 11:23:33 AM INFO Started
+04/07/2023 11:23:33 AM INFO None
+04/07/2023 11:28:18 AM INFO Started
+04/07/2023 11:28:18 AM INFO None
+04/07/2023 11:28:20 AM INFO Started
+04/07/2023 11:28:20 AM INFO None
+04/07/2023 11:30:23 AM INFO Started
+04/07/2023 11:30:23 AM INFO None
+04/07/2023 11:30:26 AM INFO satus code for get request on https://theverge.com/sitemaps/google_news : 200
+04/07/2023 11:37:24 AM INFO Started
+04/07/2023 11:37:24 AM INFO None
+04/07/2023 11:37:26 AM INFO satus code for get request on https://theverge.com/sitemaps/google_news : 200
+04/07/2023 11:38:45 AM INFO Started
+04/07/2023 11:38:45 AM INFO None
+04/07/2023 11:38:47 AM INFO satus code for get request on https://theverge.com/sitemaps/google_news : 200
+04/07/2023 11:39:18 AM INFO Started
+04/07/2023 11:39:18 AM INFO None
+04/07/2023 11:39:19 AM INFO satus code for get request on https://theverge.com/sitemaps/google_news : 200
+04/07/2023 11:40:25 AM INFO Started
+04/07/2023 11:40:25 AM INFO None
+04/07/2023 11:40:26 AM INFO satus code for get request on https://theverge.com/sitemaps/google_news : 200
+04/07/2023 11:40:52 AM INFO Started
+04/07/2023 11:40:52 AM INFO None
+04/07/2023 11:40:53 AM INFO satus code for get request on https://theverge.com/sitemaps/google_news : 200
+04/07/2023 11:40:53 AM INFO Processing article id: 0
+04/07/2023 11:40:54 AM INFO satus code for get request on https://www.theverge.com/2023/4/6/23673462/google-webgpu-chrome-113-api-machine-learning : 200
+04/07/2023 11:40:54 AM INFO Gathering details 0 is successful
+04/07/2023 11:40:54 AM INFO Processing article id: 1
+04/07/2023 11:40:55 AM INFO satus code for get request on https://www.theverge.com/2023/4/6/23673372/apple-india-retail-store-mumbai-bkc : 200
+04/07/2023 11:40:55 AM INFO Gathering details 1 is successful
+04/07/2023 11:40:55 AM INFO Processing article id: 2
+04/07/2023 11:40:56 AM INFO satus code for get request on https://www.theverge.com/2023/4/6/23671956/amazon-kindle-paperwhite-fire-tv-stick-4k-max-echo-dot-fifth-gen-spring-sale-deal : 200
+04/07/2023 11:40:56 AM INFO Gathering details 2 is successful
+04/07/2023 11:40:56 AM INFO Processing article id: 3
+04/07/2023 11:40:57 AM INFO satus code for get request on https://www.theverge.com/2023/4/6/23673043/twitter-substack-embeds-bots-tools-api : 200
+04/07/2023 11:40:57 AM INFO Gathering details 3 is successful
+04/07/2023 11:40:57 AM INFO Processing article id: 4
+04/07/2023 11:40:58 AM INFO satus code for get request on https://www.theverge.com/2023/4/6/23672763/walmart-electric-vehicle-stations-nationwide-ev-charging-network : 200
+04/07/2023 11:40:58 AM INFO Gathering details 4 is successful
+04/07/2023 11:40:58 AM INFO Processing article id: 5
+04/07/2023 11:40:58 AM INFO satus code for get request on https://www.theverge.com/2023/4/6/23669582/american-climate-tech-company-colorado-global-thermostat-direct-air-capture : 200
+04/07/2023 11:40:59 AM INFO Gathering details 5 is successful
+04/07/2023 11:40:59 AM INFO Processing article id: 6
+04/07/2023 11:41:01 AM INFO satus code for get request on https://www.theverge.com/21289209/best-apple-watch-deals : 200
+04/07/2023 11:41:01 AM INFO Gathering details 6 is successful
+04/07/2023 11:41:01 AM INFO Processing article id: 7
+04/07/2023 11:41:02 AM INFO satus code for get request on https://www.theverge.com/2023/4/6/23673067/twitter-api-shutdown-bots-botpocalypse-begins : 200
+04/07/2023 11:41:02 AM INFO Gathering details 7 is successful
+04/07/2023 11:41:02 AM INFO Processing article id: 8
+04/07/2023 11:41:02 AM INFO satus code for get request on https://www.theverge.com/2023/4/6/23672991/defi-treasury-report-money-laundering : 200
+04/07/2023 11:41:02 AM INFO Gathering details 8 is successful
+04/07/2023 11:41:02 AM INFO Processing article id: 9
+04/07/2023 11:41:03 AM INFO satus code for get request on https://www.theverge.com/23669691/android-smartwatch-wear-os-3-upgrade-how-to : 200
+04/07/2023 11:41:03 AM INFO Gathering details 9 is successful
+04/07/2023 11:41:03 AM INFO Inserting data
+04/07/2023 11:41:03 AM INFO Insert Completed
+04/07/2023 11:41:03 AM INFO Insert Completed
+04/07/2023 11:41:03 AM INFO Insert Completed
+04/07/2023 11:41:04 AM INFO Insert Completed
+04/07/2023 11:41:04 AM INFO Insert Completed
+04/07/2023 11:41:04 AM INFO Insert Completed
+04/07/2023 11:41:04 AM INFO Insert Completed
+04/07/2023 11:41:04 AM INFO Insert Completed
+04/07/2023 11:41:04 AM INFO Insert Completed
+04/07/2023 11:41:04 AM INFO Insert Completed
+04/07/2023 11:41:04 AM INFO Ended
+04/07/2023 01:23:25 PM INFO Started
+04/07/2023 01:23:25 PM INFO None
+04/07/2023 01:25:48 PM INFO Started
+04/07/2023 01:25:48 PM INFO None
+04/07/2023 01:25:52 PM INFO satus code for get request on https://theverge.com/sitemaps/google_news : 200
+04/07/2023 01:26:13 PM INFO Started
+04/07/2023 01:26:13 PM INFO None
+04/07/2023 01:26:14 PM INFO satus code for get request on https://theverge.com/sitemaps/google_news : 200
+04/07/2023 01:26:52 PM INFO Started
+04/07/2023 01:26:52 PM INFO None
+04/07/2023 01:26:53 PM INFO satus code for get request on https://theverge.com/sitemaps/google_news : 200
+04/07/2023 01:27:24 PM INFO Started
+04/07/2023 01:27:24 PM INFO None
+04/07/2023 01:27:25 PM INFO satus code for get request on https://theverge.com/sitemaps/google_news : 200
+04/07/2023 01:27:34 PM INFO Started
+04/07/2023 01:27:34 PM INFO None
+04/07/2023 01:27:36 PM INFO satus code for get request on https://theverge.com/sitemaps/google_news : 200
+04/07/2023 01:27:36 PM INFO Processing article id: 10
+04/07/2023 01:27:36 PM INFO satus code for get request on https://www.theverge.com/2023/4/7/23673851/samsung : 200
+04/07/2023 01:27:36 PM INFO Gathering details 10 is successful
+04/07/2023 01:27:36 PM INFO Processing article id: 11
+04/07/2023 01:27:37 PM INFO satus code for get request on https://www.theverge.com/2023/4/6/23673462/google-webgpu-chrome-113-api-machine-learning : 200
+04/07/2023 01:27:37 PM INFO Gathering details 11 is successful
+04/07/2023 01:27:37 PM INFO Processing article id: 12
+04/07/2023 01:27:40 PM INFO satus code for get request on https://www.theverge.com/2023/4/6/23673372/apple-india-retail-store-mumbai-bkc : 200
+04/07/2023 01:27:40 PM INFO Gathering details 12 is successful
+04/07/2023 01:27:40 PM INFO Processing article id: 13
+04/07/2023 01:27:42 PM INFO satus code for get request on https://www.theverge.com/2023/4/6/23671956/amazon-kindle-paperwhite-fire-tv-stick-4k-max-echo-dot-fifth-gen-spring-sale-deal : 200
+04/07/2023 01:27:43 PM INFO Gathering details 13 is successful
+04/07/2023 01:27:43 PM INFO Processing article id: 14
+04/07/2023 01:27:43 PM INFO satus code for get request on https://www.theverge.com/2023/4/6/23673043/twitter-substack-embeds-bots-tools-api : 200
+04/07/2023 01:27:44 PM INFO Gathering details 14 is successful
+04/07/2023 01:27:44 PM INFO Processing article id: 15
+04/07/2023 01:27:44 PM INFO satus code for get request on https://www.theverge.com/2023/4/6/23672763/walmart-electric-vehicle-stations-nationwide-ev-charging-network : 200
+04/07/2023 01:27:44 PM INFO Gathering details 15 is successful
+04/07/2023 01:27:44 PM INFO Processing article id: 16
+04/07/2023 01:27:45 PM INFO satus code for get request on https://www.theverge.com/2023/4/6/23669582/american-climate-tech-company-colorado-global-thermostat-direct-air-capture : 200
+04/07/2023 01:27:45 PM INFO Gathering details 16 is successful
+04/07/2023 01:27:45 PM INFO Processing article id: 17
+04/07/2023 01:27:46 PM INFO satus code for get request on https://www.theverge.com/21289209/best-apple-watch-deals : 200
+04/07/2023 01:27:46 PM INFO Gathering details 17 is successful
+04/07/2023 01:27:46 PM INFO Processing article id: 18
+04/07/2023 01:27:47 PM INFO satus code for get request on https://www.theverge.com/2023/4/6/23673067/twitter-api-shutdown-bots-botpocalypse-begins : 200
+04/07/2023 01:27:47 PM INFO Gathering details 18 is successful
+04/07/2023 01:27:47 PM INFO Processing article id: 19
+04/07/2023 01:27:49 PM INFO satus code for get request on https://www.theverge.com/2023/4/6/23672991/defi-treasury-report-money-laundering : 200
+04/07/2023 01:27:49 PM INFO Gathering details 19 is successful
+04/07/2023 01:27:49 PM INFO Inserting data
+04/07/2023 01:27:49 PM INFO Insert Completed
+04/07/2023 01:27:49 PM INFO Insert Completed
+04/07/2023 01:27:49 PM INFO Insert Completed
+04/07/2023 01:27:49 PM INFO Insert Completed
+04/07/2023 01:27:49 PM INFO Insert Completed
+04/07/2023 01:27:49 PM INFO Insert Completed
+04/07/2023 01:27:49 PM INFO Insert Completed
+04/07/2023 01:27:49 PM INFO Insert Completed
+04/07/2023 01:27:49 PM INFO Insert Completed
+04/07/2023 01:27:49 PM INFO Insert Completed
+04/07/2023 01:27:49 PM INFO Ended
